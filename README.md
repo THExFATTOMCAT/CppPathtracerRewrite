@@ -7,4 +7,4 @@ Fileorganisation and Projectstructure are at some point non-standard/non-practic
 I will start fixing these issues.
 
 # About
-The project was originally developed for Windows, since it was the target platform. But I was also tried to code crossplatform, so this code should be able to compile on linux (with minor changes).
+The project was originally developed for Windows, since it was the target platform. But I also attempted to code crossplatform, so this code should be able to compile on linux (with minor changes).
